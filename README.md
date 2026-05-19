@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis-SQL-Project 1
+# Retail-Sales-Analysis-SQL-Project 
 Project 1 of MySQL
 
 Project Overview <br>
